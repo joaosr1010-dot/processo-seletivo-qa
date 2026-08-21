@@ -551,7 +551,7 @@ A API retornou status `200` e apresentou os dados da reserva em formato JSON, co
 
 ### Evidência
 
-![API 002 – Consultar reserva](evidencias/API-002-consulta-reserva.PNG)
+![API 002 – Consultar reserva](evidencias/API-002-consultar-reserva.PNG)
 
 ---
 
