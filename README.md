@@ -657,7 +657,7 @@ O cenário foi executado com sucesso e as validações foram aprovadas.
 
 A execução do teste apresentou o cenário como aprovado no Cypress, com as duas validações concluídas com sucesso.
 
-![Execução do teste de login com Cypress](evidencias/automacao-login.PNG)
+![Evidência da automação com Cypress](evidencias/automacao-login.gif)
 
 ---
 
