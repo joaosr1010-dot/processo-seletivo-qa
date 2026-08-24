@@ -514,7 +514,7 @@ De acordo com a documentação da API, o endpoint `GET /booking` deve conter uma
 ### Resultado obtido
 
 A API retornou status `200`, mostrando em formato JSON uma lista de `bookingid`, confirmando o comportamento apresentado na documentação.
-O tempo de resposta da requisição foi de 1,39 segundos.
+O tempo de resposta da requisição foi de 471 ms.
 
 ### Evidência
 
