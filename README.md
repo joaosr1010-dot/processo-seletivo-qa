@@ -514,6 +514,7 @@ De acordo com a documentação da API, o endpoint `GET /booking` deve conter uma
 ### Resultado obtido
 
 A API retornou status `200`, mostrando em formato JSON uma lista de `bookingid`, confirmando o comportamento apresentado na documentação.
+O tempo de resposta da requisição foi de 1,39 segundos.
 
 ### Evidência
 
@@ -548,6 +549,7 @@ A API deve retornar os dados correspondentes à reserva associada ao ID informad
 ### Resultado obtido
 
 A API retornou status `200` e apresentou os dados da reserva em formato JSON, contendo informações como nome, sobrenome, valor total, status do depósito, datas de entrada e saída e necessidades adicionais.
+O tempo de resposta da requisição foi de 464 ms.
 
 ### Evidência
 
